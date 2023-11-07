@@ -1,0 +1,8 @@
+*{
+box-sizing: border-box;}
+.p1{background-color: burlywood;
+display: inline-block;}
+.p2{background-color: aqua;
+display: inline-block;}
+.p1, .p2, h1, h2{margin-right: 70px;
+margin-left:10px;}

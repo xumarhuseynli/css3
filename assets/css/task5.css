@@ -1,0 +1,37 @@
+  @import url('https://fonts.googleapis.com/css2?family=Arvo&family=Cedarville+Cursive&family=Dancing+Script&family=Kolker+Brush&family=Noto+Sans+Kawi:wght@600&display=swap');
+
+  @import url('https://fonts.googleapis.com/css2?family=Arvo:ital,wght@0,700;1,400&display=swap');
+    @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+
+    @import url('https://fonts.googleapis.com/css2?family=Nunito:ital,wght@1,500&display=swap');
+
+
+
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.div1{background-color: dimgray;
+display: inline-block;}
+th{border-bottom: 4px solid blue;
+border-right: 2px solid blue;}
+td{border-right: 2px solid blue;}
+
+.s1{font-size: 48px;}
+.s2{font-size: 42px;}
+.s3{font-size: 36px;}
+.s4{font-size: 30px;}
+.s5{font-size: 24px;}
+.s6{font-size: 18px;}
+.c1{ color: red;}
+.c2{color: blue;}
+.c3{color: aqua;}
+.c4{color: palevioletred;}
+.c5{color: black;}
+.c6{color: green;}
+.f1{font-family: cursive;}
+.f2{font-family: arvo;}
+.f3{font-family: roboto;}
+.f4{font-family: sans-serif;}
+.f5{font-family: serif;}
+.f6{font-family: nunito ;}

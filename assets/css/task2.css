@@ -1,0 +1,17 @@
+*{
+padding: 0;
+box-sizing: border-box;}
+.p2 mark{background-color: blueviolet;
+}
+.paragraph{background-color: coral;
+height: 50px;
+padding: 10px 8px;
+display: inline-block;}
+.onhover{background-color: greenyellow;
+height: 40px;
+padding: 10px 57px;
+display: inline-block;
+margin-bottom: 40px;}
+.div1{text-align: center;
+
+}

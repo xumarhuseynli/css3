@@ -1,0 +1,33 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Arvo&family=Dancing+Script&family=Kolker+Brush&display=swap');
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+.box1, .box2, .box3, .box4, .box5, .box6, .box7, .box8, .box9, .box10, .box11{width: 240px;
+height: 100px;
+font-size: larger;
+display: inline-block; margin-right: 20px;
+margin-bottom: 20px;}
+.box1{background-color:#dbd8e7;}
+.box2{background-color:#d8e6e7;}
+.box3{background-color:#f78197;}
+.box4{background-color:#7aac71;}
+.box5{background-color:#fc8bc8;}
+.box6{background-color:#fde079;}
+.box7{background-color:#626d8d;}
+.box8{background-color:#fce7b8;}
+.box9{background-color:#bd68b5;}
+.box10{background-color:#7bf2df;}
+.box11{background-color:#c45568;}
+.sans, .oxygen{font-family: sans-serif;
+font-size: large; font-size: 100px;}
+.d{font-family:dancing script ;
+font-size: 80px;
+font-weight: lighter;
+margin-left: 20px;
+}
+.sans, .oxygen, .d{display: inline-block;}
+                       
+
+                        

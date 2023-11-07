@@ -1,0 +1,9 @@
+*{box-sizing: border-box;
+margin: 0;
+padding: 0;}
+h1, h2{margin-bottom: 18px;}
+.p1{color: green;
+margin-bottom: 20px;}
+.p2{color: red;
+margin-bottom: 20px;}
+.p3{color: blue;}

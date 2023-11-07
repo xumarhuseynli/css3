@@ -1,0 +1,20 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Arvo&family=Dancing+Script&family=Kolker+Brush&family=Noto+Sans+Kawi:wght@600&display=swap');
+
+*{margin: 0;
+padding: 0;
+box-sizing: border-box;}
+h1{color: rgb(202, 25, 25);
+    text-decoration: underline;
+}
+thead{color: blue;}
+td,th{border-bottom: 2px solid black;}
+td,th{border-right:  2px solid black;}
+.font{color: red;}
+.a1{color: blue;}
+.a2{font-size: 48px;
+color: blue;}
+.a3{font-weight: lighter;}
+.a4{font-family: noto sans-serif;}
+.a5{font-style: italic;}
+.a6{letter-spacing: 5px;}
